@@ -1,7 +1,7 @@
 --© THIS CODE HAS A LICENSE!
 
 --[[
-			        FULL LEGION SOURCE 
+			     FULL LEGION SOURCE 
 		-----------------------------------------------
 		The Control wasn't made by me (neither by iux)			
 		It was made by Seth
@@ -1517,9 +1517,9 @@ MainBuffer:write(function()
 
 	local EspLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Sirius/request/library/sense/source.lua'))()
 	local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
-    local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+        local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
-	local Bolt = loadstring(game:HttpGet("https://femboys-for.rent/p/raw/tlzqiyz8wh"))()
+	--> local Bolt = loadstring(game:HttpGet("https://femboys-for.rent/p/raw/tlzqiyz8wh"))()
 
 	local legion = Legion.new({Title="Legion ",Credits = "Solo,Percent,Iux"})
 	local Holder = Instance.new("Model",workspace)
@@ -3758,7 +3758,7 @@ MainBuffer:write(function()
 
 						Modules["Remove"](Settings["Grab"]["GrabbedCharacter"],"all")
 						Modules["Play"](Sounds["Rip"])
-						Services.TweenService:Create(Services.Lighting.ColorCorrection, TweenInfo.new(1), {Contrast = 0}):Play()
+						Services.TweenService:Create(Services..ColorCorrection, TweenInfo.new(1), {Contrast = 0}):Play()
 						task.wait(0.3)
 
 						Services.ReplicatedStorage.MainEvent:FireServer("Grabbing",false)
@@ -3839,17 +3839,17 @@ MainBuffer:write(function()
 					Settings["Grab"]["Grab"] = false 
 					Modules["Play"]("8063279487")
 					if Settings["Grab"]["Effects"] then 
-						Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {ColorShift_Bottom = Color3.fromRGB(0,255,0)}):Play()
-						Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {ColorShift_Top = Color3.fromRGB(0,255,0)}):Play()
-						Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {Brightness = 100}):Play()
-						Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {Ambient = Color3.fromRGB(0,255,0)}):Play()
+						Services.TweenService:Create(game., TweenInfo.new(.7), {ColorShift_Bottom = Color3.fromRGB(0,255,0)}):Play()
+						Services.TweenService:Create(game., TweenInfo.new(.7), {ColorShift_Top = Color3.fromRGB(0,255,0)}):Play()
+						Services.TweenService:Create(game., TweenInfo.new(.7), {Brightness = 100}):Play()
+						Services.TweenService:Create(game., TweenInfo.new(.7), {Ambient = Color3.fromRGB(0,255,0)}):Play()
 					end 
 					Modules["Chat"]("C MOON: GRAVITY MOON")
 					Modules["AnimPlay"](Services.LocalPlayer.Character,8254789608)
 					Settings["Grab"]["GrabbedCharacter"].UpperTorso.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0,2000,0)
 					task.wait(3.5)
 
-					Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {ColorShift_Bottom = Color3.fromRGB(0,0,0)}):Play()
+					Services.TweenService:Create(game., TweenInfo.new(.7), {ColorShift_Bottom = Color3.fromRGB(0,0,0)}):Play()
 					Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {ColorShift_Top = Color3.fromRGB(0,0,0)}):Play()
 					Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {Brightness = 1}):Play()
 					Services.TweenService:Create(game.Lighting, TweenInfo.new(.7), {Ambient = Color3.fromRGB(0,0,0)}):Play()
@@ -4269,10 +4269,7 @@ MainBuffer:write(function()
 						GrabAnim.TimePosition = .1
 
 						local Clone = Modules["CloneCharacter"](OldChar)
-						local MindBolt;
-						if Settings["Grab"]["Effects"] then 
-							MindBolt = Bolt.new(Services.LocalPlayer.Character.RightHand.RightGripAttachment,Clone.Head.HairAttachment,4,Settings["Grab"]["Mind Control Color"],Settings["Grab"]["Mind Control Thickness"],Settings["Grab"]["Mind Control Frequency"])
-						end
+						
 
 						Clone.Parent = Services.LocalPlayer.Character
 						Clone.HumanoidRootPart.CFrame = Services.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(3,0,0)
@@ -4293,9 +4290,7 @@ MainBuffer:write(function()
 
 							if Services.LocalPlayer.Character.BodyEffects.Grabbed.Value == nil then 
 
-								if MindBolt then 
-									MindBolt:Destroy()
-								end
+								
 								Modules["DestroyClone"](Clone,OldChar)
 								Settings["Grab"]["Grab"] = true 
 								Cache["Loops"]["Mind Control"]:Disconnect()
