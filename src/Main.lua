@@ -9,8 +9,8 @@
 		The Sex aswell was made by Seth
 		The Hoverboard Aswell
 
-        Everything else that is in here was made by me and Percent
-        and nothing from Iux
+	        Everything else that is in here was made by me and Percent
+	        and nothing from Iux
 
 		-----------------------------------------------
 
