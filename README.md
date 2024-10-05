@@ -5,26 +5,26 @@
 - ## [+] First point: Asking if you can obfuscate a fucking webhook logger script  (This was when Legion was Logging people after the release and iux asked if you can obfuscated a simple script LMAO)
 
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid-/refs/heads/main/images/Webhhok_s.png)
+![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Webhhok_s.png)
 
 ---
 
 - ## Saying when I was planning on releasing the source that I should remove Sex,Control and so on because he would get beef with **Seth**
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid-/refs/heads/main/images/Remove_s.png)
+![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Remove_s.png)
 
 ---
 
 - ## Saying that the "skido.lua" "stand" uses a api for sending reuqests now and then saying LOCALHOST is crazy. (I am not defending skido.lua)
 Just so you know its not possible (trough a lua script in a executor sandbox) to host on their own. They have to launch e.g a websocket (on their pc) before that to connect to that. And since its only local you CAN'T connect to it trough the internet. It's not possible its literally in the name _**"local"**_
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid-/refs/heads/main/images/LocalHost_s.png)
+![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/LocalHost_s.png)
 
 ---
 
 - ## Scamming people and then using "I have vouches in Stando" as a excuse to get away with it
 And I quote "One guy can do nothing, I have vouches in Stando"
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid-/refs/heads/main/images/Scamming_s.png)
+![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Scamming_s.png)
 
 - # And beacuse of this I have ultimatily decided to leak the full source 
