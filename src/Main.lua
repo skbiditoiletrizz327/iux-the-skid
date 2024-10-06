@@ -2,7 +2,7 @@
 
 --[[
 			     FULL LEGION SOURCE 
-		-----------------------------------------------
+		<< ----------------------------------------------- >>
 		The Control wasn't made by me (neither by iux)			
 		It was made by Seth
 	
@@ -12,14 +12,14 @@
 	        Everything else that is in here was made by me and Percent
 	        and nothing from Iux
 
-		-----------------------------------------------
+		<< ----------------------------------------------- >>
 
 		As you can see I tried to make the Sex and stuff adjust to my style
 	 	of my (Solo) style of code for easier understanding 
 
 		But ngl I was too bored to Fully change Control Aswell
 
-		-----------------------------------------------
+		<< ----------------------------------------------- >>
 
 		Now what is it like working with Iux?
 
@@ -37,7 +37,7 @@
 		this isn't a solo mission for you bro. Like you are in the team and not some mysterious ass 
 		nga.
 
-		-----------------------------------------------
+		<< ----------------------------------------------- >>
 
 		- Solo , Percent
 ]]--
