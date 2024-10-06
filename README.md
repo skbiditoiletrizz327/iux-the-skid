@@ -33,6 +33,10 @@ And I quote "One guy can do nothing, I have vouches in Stando"
 
 - ## Asking me to make him a discord bot that says a message lol
 
-  (![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3727.jpeg)
+  ![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3727.jpeg)
+
+- ## Asking immortalitylord to make him a rape script
+
+  (![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/sLShz3V)
 
 - # And beacuse of this I have ultimatily decided to leak the full source 
