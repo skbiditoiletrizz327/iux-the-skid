@@ -1,45 +1,64 @@
-# Exposing Iux: The Skid & Scammer
-### Why Iux is a Skid: Despite his claims, Iux never actually worked on Legion. Instead, he used Seth's scripts and profited off of them. Here's the proof.
 
----
-- ## [+] First point: Asking if you can obfuscate a fucking webhook logger script  (This was when Legion was Logging people after the release and iux asked if you can obfuscated a simple script LMAO)
+# Exposing Iux: The Skid and Scammer
 
-
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Webhhok_s.png)
+This post reveals the truth about Iux, someone who claims to be skilled in development but has repeatedly shown himself to be nothing more than a **skid** (someone who uses others' work without credit) and a **scammer**. Despite his self-promotion, Iux has contributed little to projects and instead capitalized on the efforts of others—most notably Seth’s work on Legion. Below is the irrefutable proof.
 
 ---
 
-- ## Saying when I was planning on releasing the source that I should remove Sex,Control and so on because he would get beef with **Seth**
+### 1. Asking to Obfuscate a Basic Webhook Logger Script
+One of the clearest signs of Iux's lack of skills: he once asked how to obfuscate a simple webhook logger script. This was during the time Legion was logging people, and it's laughable that someone involved in such projects needed help with something so basic.
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Remove_s.png)
-
----
-
-- ## Saying that the "skido.lua" "stand" uses a api for sending reuqests now and then saying LOCALHOST is crazy. (I am not defending skido.lua)
-Just so you know its not possible (trough a lua script in a executor sandbox) to host on their own. They have to launch e.g a websocket (on their pc) before that to connect to that. And since its only local you CAN'T connect to it trough the internet. It's not possible its literally in the name _**"local"**_
-
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/LocalHost_s.png)
+![Webhook Logger Request](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Webhhok_s.png)
 
 ---
 
-- ## Scamming people and then using "I have vouches in Stando" as a excuse to get away with it
-And I quote "One guy can do nothing, I have vouches in Stando"
+### 2. Fear of Conflict with Seth Over Source Release
+When I was planning to release the source code for Legion, Iux panicked and urged me to remove specific features like "Sex, Control," etc. His reasoning? He didn't want to get into "beef" with Seth, which clearly shows how dependent he was on Seth's work.
 
-![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Scamming_s.png)
+![Message about Source Release](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Remove_s.png)
 
-- ## Asking me how to do a simple window tracking script because Kingy is a "son of a bitch" cause he didn't send iux the script
+---
 
-  ![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3726.jpeg)
+### 3. Ignorance of Basic Networking: Localhost Confusion
+Iux displayed a fundamental misunderstanding of basic networking concepts. He claimed that a script (like skido.lua) could use an API to send requests via "localhost." However, it's technically impossible for a Lua script in an executor sandbox to connect to the internet through localhost. The term **"local"** means it’s limited to the device itself, making external connections impossible without additional steps.
 
-- ## Asking me to make him a discord bot that says a message lol
+![Localhost Confusion](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/LocalHost_s.png)
 
-  ![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3727.jpeg)
+---
 
-- ## Asking immortalitylord to make him a rape script
+### 4. Scamming and Dodging Responsibility Using "Vouches"
+Iux has a history of scamming people, often brushing off his actions by citing his "vouches" in the Stando community. He even once said, "One guy can do nothing; I have vouches in Stando," as if that somehow absolves him from wrongdoing.
 
-  ![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/sLShz3V.png)
+![Scamming Excuse](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/Scamming_s.png)
 
-- ## ImmortalityLord's experience with iux
-  ![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/immortality_lord_message.png)
+---
 
-- # And beacuse of this I have ultimatily decided to leak the full source 
+### 5. Asking for Help with Basic Scripts
+Despite his claims of expertise, Iux repeatedly asked for help with simple scripts. From basic window tracking to a Discord bot that sends messages, his constant requests for assistance exposed his lack of knowledge.
+
+- **Window tracking script**: Iux asked me for help because Kingy wouldn’t send him the script.
+
+  ![Request for Window Tracking Script](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3726.jpeg)
+
+- **Discord bot**: Iux even asked me to create a basic bot that outputs a message. 
+
+  ![Discord Bot Request](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/IMG_3727.jpeg)
+
+---
+
+### 6. Inappropriate Requests: A "Rape Script"
+In a particularly disturbing request, Iux asked **ImmortalityLord** to make a "rape script" for him. This is not only inappropriate but also highlights his complete lack of ethical boundaries.
+
+![Rape Script Request](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/sLShz3V.png)
+
+---
+
+### 7. ImmortalityLord's Experience with Iux
+Even **ImmortalityLord** can attest to Iux's incompetence and unethical behavior. Below is an example of a conversation where he experienced similar issues with Iux.
+
+![ImmortalityLord's Account](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/immortality_lord_message.png)
+
+---
+
+### Conclusion
+The evidence is overwhelming: Iux is nothing more than a skid and a scammer who relies on others' work while profiting from it. His incompetence and unethical behavior have been exposed time and time again. Let this be a warning to anyone thinking of working with him.
