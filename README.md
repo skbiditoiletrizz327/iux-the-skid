@@ -62,3 +62,5 @@ Even **ImmortalityLord** can attest to Iux's incompetence and unethical behavior
 
 ### Conclusion
 The evidence is overwhelming: Iux is nothing more than a skid and a scammer who relies on others' work while profiting from it. His incompetence and unethical behavior have been exposed time and time again. Let this be a warning to anyone thinking of working with him.
+
+### And thats why I ultimately decided to leak the Full Legion Soruce
