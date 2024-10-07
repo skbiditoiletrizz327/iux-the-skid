@@ -39,4 +39,7 @@ And I quote "One guy can do nothing, I have vouches in Stando"
 
   (![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/sLShz3V.png)
 
+- ## ImmortalityLord's experience with iux
+  (![alt Text](https://raw.githubusercontent.com/skbiditoiletrizz327/iux-the-skid/refs/heads/main/images/immortality_lord_message.png)
+
 - # And beacuse of this I have ultimatily decided to leak the full source 
